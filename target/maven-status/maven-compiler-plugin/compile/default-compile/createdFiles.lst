@@ -1,0 +1,10 @@
+pages/PageMe.class
+pages/SecretePage.class
+cursoSelenium/common/Generator.class
+cursoSelenium/common/AuxiliarCurso.class
+cursoSelenium/common/Web.class
+pages/BasePage.class
+pages/LoginPageForm.class
+pages/AddMoreDateAboutForm.class
+cursoSelenium/common/Screenshot.class
+pages/LoginPage.class
